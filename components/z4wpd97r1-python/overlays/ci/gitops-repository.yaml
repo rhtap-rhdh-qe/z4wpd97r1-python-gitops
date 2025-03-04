@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: z4wpd97r1-python-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/z4wpd97r1-python-gitops
